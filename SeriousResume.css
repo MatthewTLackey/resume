@@ -46,6 +46,7 @@ border-radius: 6px;
 	font-size: 70px;
 	font-weight: lighter;
 	font-variant: small-caps;
+	text-shadow: 2px 2px 3px #2f4f4f;
 }
 
 
@@ -94,6 +95,7 @@ border-radius: 6px;
 	clear: both;
 	width: 940px;
 	border-radius: 6px;
+	box-shadow: 10px 10px 5px #2f4f4f;
 
 
 }
